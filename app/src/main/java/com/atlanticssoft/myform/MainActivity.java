@@ -110,6 +110,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtras(mybundle);
 
                 startActivity(intent);
+                finish();
             }
         });
 

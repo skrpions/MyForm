@@ -88,5 +88,6 @@ public class ConfirmarDatos extends AppCompatActivity {
         intent.putExtras(mybundle);
 
         startActivity(intent);
+        finish();
     }
 }
