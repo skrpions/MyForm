@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyForm</string>
+
+    // Start :: MainActivity
+    <string name="etNombre">Nombre:</string>
+    <string name="etNacimiento">Nacimiento:</string>
+    <string name="etTelefono">Teléfono:</string>
+    <string name="etEmail">E-mail:</string>
+    <string name="etDescripcion">Descripción:</string>
+
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="registroExitoso1">Bienvenido</string>
+    <string name="registroExitoso2">, Ahora Estas Registrado</string>
+    <string name="registroErrado">Opps, Las claves no Coinciden</string>
+    // End :: MainActivity
+
+
+    // Start :: ConfirmarDatos
+    <string name="btnEditar">Editar Datos</string>
+
+    // End :: ConfirmarDatos
+
+</resources>
